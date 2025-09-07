@@ -81,3 +81,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - 提交信息使用中文
 - 格式：`update: 更新{公司名称}近期事件` 或 `update: YYYYMMDD`
 - 避免提交敏感信息或个人投资建议
+
+## 更新近一个月事件
+
+- 当用户说明更新近期事件/近一个月事件时，首先确定当前日期确定要更新的事件范围，然后搜索互联网并更新相关事件。
+- 使用子代理并行执行提高效率
+
