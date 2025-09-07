@@ -1,7 +1,12 @@
 {
   "permissions": {
     "allow": [
-      "Bash(ls:*)"
+      "Bash(ls:*)",
+      "WebSearch",
+      "Bash(find:*)",
+      "WebFetch(domain:finance.sina.com.cn)",
+      "WebFetch(domain:quote.eastmoney.com)",
+      "WebFetch(domain:stockapp.finance.qq.com)"
     ],
     "deny": []
   }
