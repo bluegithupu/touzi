@@ -1,0 +1,7 @@
+#!/bin/bash
+# Claude Code wrapper for touzi portfolio updates
+
+cd ~/Code/touzi
+
+# Run Claude Code to update all companies
+claude --dangerously-skip-permissions "$@"
